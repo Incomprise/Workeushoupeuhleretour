@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import App from './Quizz';
-import './index.css';
+import App from './Quizz/Quizz';
+import './Quizz/Quizz.css';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
